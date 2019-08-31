@@ -1,0 +1,7 @@
+##Node Mudules
+node_modules/
+
+#test
+test.js
+
+yarn.lock
